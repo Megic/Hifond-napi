@@ -1,0 +1,18 @@
+logs/
+npm-debug.log
+node_modules
+coverage/
+.idea/
+.vscode/
+run/
+.DS_Store
+*.swp
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+dist-mobile
+
+electron-release
+electron-temp
